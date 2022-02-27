@@ -1,7 +1,7 @@
 ## aspect_level_sentiment_analysis
 
 ### 1、环境：python3.5.4   TensorFlow 1.4.0
-### 2、
+### 2、说明：数据集太大了，处理后的数据只存放了验证集分词的txt在Dataset文件夹中。训练后的模型文件存放在model文件夹中，因为较多，故每个细粒度的分类模型（20个细粒度分类器）中的表现好的那个做代表
 
 
 ####     面向细粒度的情感分析，2018年度AI Challenger全球AI挑战赛
